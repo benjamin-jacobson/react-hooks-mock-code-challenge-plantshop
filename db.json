@@ -10,7 +10,7 @@
       "id": 2,
       "name": "ZZ Plant",
       "image": "./images/zz-plant.jpg",
-      "price": 25.98
+      "price": 100000
     },
     {
       "id": 3,
@@ -41,12 +41,6 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
-    },
-    {
-      "name": "hamraz",
-      "price": "111",
-      "image": "https://media.istockphoto.com/id/1440668597/photo/distribution-warehouse-with-cardboard-boxes-on-the-racks-and-on-the-floor.jpg?s=1024x1024&w=is&k=20&c=L5mYFNb6Mr9iQ6biWxzjta0CzZJyLtbAuU0pWjYKcLI=",
-      "id": 9
     }
   ]
 }
